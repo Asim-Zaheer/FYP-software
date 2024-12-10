@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Tabs from './Tabs';
-import logo from '../../assests/images/Layer_1.svg';
+import logo from '../../../assests/images/Layer_1.svg';
 import { useNavigate } from 'react-router-dom';
 
 const AuthForm = () => {
